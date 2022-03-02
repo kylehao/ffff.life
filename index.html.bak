@@ -311,7 +311,7 @@ html, body {
   <div class="lock animated">
       <div class="form">
           <div class="pic"></div>
-          <div class="name">Kyle Smith</div>
+          <div class="name">Lafite Wu</div>
           <div class="input">
               <input class="animated" type="password" placeholder="请输入密码" value="" />
           </div>
